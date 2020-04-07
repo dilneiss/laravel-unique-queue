@@ -1,5 +1,5 @@
 {
-    "name": "calvinfa/laravel-unique-queue",
+    "name": "dilneiss/laravel-unique-queue",
     "type": "library",
     "description": "Laravel queue connection that prevents identical jobs from being queued",
     "keywords": ["laravel", "queue", "unique"],
