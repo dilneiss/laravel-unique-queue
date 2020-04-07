@@ -10,7 +10,7 @@ Requires `illuminate/redis` and `illuminate/queue`, both `"~5.7"`
 
 ### Require via Composer
 ```
-composer require mlntn/laravel-unique-queue
+composer require dilneiss/laravel-unique-queue
 ```
 
 
